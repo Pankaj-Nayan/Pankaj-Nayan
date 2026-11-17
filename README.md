@@ -1,28 +1,113 @@
-<h1 align="center">Hi , I'm Pankaj Nayan</h1>
-<h3 align="center">CSBS Undergrad | Java Backend Developer | Exploring AI & Cloud Engineering</h3>
+# 👋 Hi, I'm Pankaj Nayan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-nayan&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-nayan" /> </p>
+### `Java Backend Developer` · `CSBS Undergraduate` · `AI & Cloud Enthusiast`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankaj-nayan" alt="pankaj-nayan" /></a> </p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Backend+Applications;Exploring+Artificial+Intelligence;Learning+System+Design+%26+Cloud;Turning+Ideas+Into+Working+Software](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Building+Backend+Applications;Exploring+Artificial+Intelligence;Learning+System+Design+%26+Cloud;Turning+Ideas+Into+Working+Software)" alt="Typing SVG" /> \</p>
 
-- 🔭 I’m currently working on [Mucix](https://github.com/Pankaj-Nayan/Mucix)
+\<p align="center">   \<a href="[https://github.com/Pankaj-Nayan](https://github.com/Pankaj-Nayan)">     \<img src="[https://img.shields.io/badge/GitHub-Pankaj--Nayan-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Pankaj--Nayan-181717?style=for-the-badge\&logo=github)" />   \</a>   \<img src="[https://komarev.com/ghpvc/?username=Pankaj-Nayan&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=Pankaj-Nayan\&style=for-the-badge\&color=0e75b6\&label=PROFILE+VIEWS)" /> \</p>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+---
 
-- 📫 How to reach me **- pankajnayan558@gmail**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pankaj nayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj nayan" height="30" width="40" /></a>
-<a href="https://instagram.com/pankaj_nayan.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankaj_nayan.__" height="30" width="40" /></a>
-</p>
+- 🎓 CSBS Undergraduate at SJCE, Mysore.
+- 💻 Interested in backend development and software engineering.
+- 🔭 Currently building [**Mucix**](https://github.com/Pankaj-Nayan/Mucix).
+- 🌱 Exploring Spring AI, Agentic AI, Cloud Engineering and System Design.
+- ⚙️ Enjoy building applications, experimenting with technologies and solving problems.
+- 👯 Open to collaborating on interesting software and open-source projects.
+- 🎯 Focused on becoming a better engineer through consistent learning and building.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankaj-nayan&show_icons=true&locale=en&layout=compact" alt="pankaj-nayan" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankaj-nayan&show_icons=true&locale=en" alt="pankaj-nayan" /></p>
+### Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj-nayan&" alt="pankaj-nayan" /></p>
+\<p>   \<img src="[https://skillicons.dev/icons?i=java,python,c,js](https://skillicons.dev/icons?i=java,python,c,js)" /> \</p>
 
+### Backend & Frameworks
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=spring,maven,hibernate](https://skillicons.dev/icons?i=spring,maven,hibernate)" /> \</p>
+
+### Databases
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis)" /> \</p>
+
+### Tools & Platforms
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,postman,docker,idea,vscode,linux](https://skillicons.dev/icons?i=git,github,postman,docker,idea,vscode,linux)" /> \</p>
+
+### Currently Exploring
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=aws,kafka,docker,python](https://skillicons.dev/icons?i=aws,kafka,docker,python)" /> \</p>
+
+---
+
+## 📊 GitHub Analytics
+
+\<p align="center">   \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Pankaj-Nayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Pankaj-Nayan\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" />   \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Nayan&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-Nayan\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+\<p align="center">   \<img src="[https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPankaj-Nayan&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=blue](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPankaj-Nayan\&query=%24.public_repos\&label=PUBLIC%20REPOSITORIES\&style=for-the-badge\&logo=github\&color=blue)" />   \<img src="[https://img.shields.io/github/stars/Pankaj-Nayan?style=for-the-badge&label=STARS%20ON%20PROFILE&color=yellow](https://img.shields.io/github/stars/Pankaj-Nayan?style=for-the-badge\&label=STARS%20ON%20PROFILE\&color=yellow)" />   \<img src="[https://img.shields.io/github/followers/Pankaj-Nayan?style=for-the-badge&label=FOLLOWERS&color=blue](https://img.shields.io/github/followers/Pankaj-Nayan?style=for-the-badge\&label=FOLLOWERS\&color=blue)" /> \</p>
+
+---
+
+## 🔥 Contribution Streak
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=Pankaj-Nayan&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Pankaj-Nayan\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+\<p align="center">   \<a href="[https://github.com/Pankaj-Nayan](https://github.com/Pankaj-Nayan)">     \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Nayan&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-Nayan\&theme=tokyo-night\&hide_border=true\&area=true)" width="100%" />   \</a> \</p>
+
+---
+
+## 📅 Contribution Overview
+
+\<p align="center">   \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-Nayan&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pankaj-Nayan\&theme=tokyonight)" width="100%" /> \</p>
+
+---
+
+## 💻 Featured Projects
+
+### 🎵 [Mucix](https://github.com/Pankaj-Nayan/Mucix)
+
+**AI-Powered Audio Separation**
+
+An audio processing project focused on separating vocals and instrumentals from music using AI-based source separation.
+
+`Python` `Demucs` `FFmpeg` `Java` `Spring Boot`
+
+---
+
+### 💸 [Splitixy](https://github.com/Pankaj-Nayan/SplitixyWeb)
+
+**Expense Management Application**
+
+A web application for managing and splitting expenses, built with a Java backend and database integration.
+
+`Java` `Spring Boot` `MySQL` `Thymeleaf`
+
+---
+
+### ⚽ [UCLxDOR](https://github.com/Pankaj-Nayan/UCLxDOR)
+
+**Football Analytics & Prediction**
+
+A football-focused project exploring player performance, statistics and award prediction.
+
+`Java` `Spring Boot` `REST APIs`
+
+---
+
+## 🤝 Connect With Me
+
+\<p align="center">   \<a href="[https://github.com/Pankaj-Nayan](https://github.com/Pankaj-Nayan)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://instagram.com/pankaj_nayan.\_\_](https://instagram.com/pankaj_nayan.__)">     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" />   \</a> \</p>
+
+---
+
+\<p align="center">   \<i>"Great software is built one problem, one solution, and one improvement at a time."\</i> \</p>
+
+\<p align="center">   ⭐ If you find something interesting in my repositories, consider giving it a star! \</p>
