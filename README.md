@@ -2,7 +2,7 @@
 
 <h1 align="center">Pankaj Nayan</h1>
 
-<h3 align="center">Java Backend Developer | CSBS Undergraduate | AI & Cloud Engineering</h3>
+<h3 align="center"> CSBS Undergraduate | Java Backend Developer | Microservices & Cloud Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Backend+Applications;Exploring+Artificial+Intelligence;Learning+System+Design+%26+Cloud;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
